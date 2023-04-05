@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "KOREA"
 title                    : "Gyubin's page"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "hi i'm gyubin"# site tagline that appears below site title in masthead
 name                     : "Gyubin Choi"
 description              : "gyubin's page"
 url                      : "https://gyubinc.github.io"
